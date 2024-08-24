@@ -21,6 +21,7 @@
         }
     </style>
 </head>
+
 <body>
     <h1>Employee List</h1>
     <table>
@@ -35,7 +36,141 @@
                 <th>Salary</th>
             </tr>
         </thead>
-        <tbody>
+<SQL>
+       create  
+
+<sql> 
+
+create database ""dataset SQL ""
+ ;
+ create SQL database  " SQL make query "  ; 
+ File( bilo *starch;  
+  *starch = paddress);
+ 
+  
+ file.search("       "); 
+ 
+create superkey SQL query_dataset  ; new 
+create database vwsql;
+create table tyuse; 
+
+create table  daaset ( efind () , emidi , wbrok ),varchar , long , character   )    ;   
+// for character go ;
+insert rows (""superkey"" ,  varchar) [ values (datset)] //dataset// ;
+insert row  ("superkey number " ,  (var Int (28)) ) ; /*list of superkeys */   
+insert rows  daaset ((empid , empn , nemp ) , character, character , varchar ) set values ( " goku " ,  "5391"  , " 567_what ")  ; 
+
+insert rows (treat, newseat, )( varchar, varchar)  ; 
+set  values ( treat = '' lunch seven eggs '') ;
+insert values into daaset (newseat = "bronze dojo"); 
+set rows   ( newseat  = "bronze dojo");  
+set rows (databreach = "" breach of data "")  ;  
+Add values ( ) ; 
+ //for creation of table sql
+insert column into table  (empid_newstat  , variable ,  empdscodde,  character ) ;
+
+ //objective new setup for new staff 
+insert column into table daaset  ( ""databreach"" ,  varchar) ; 
+ insert  into daaset ("databreach" = varchar ) values ("" 1 "")  ;
+   set (empid_newstat = ""vinod_new"" , empdscodde = (""bsuit, blsuit,"" )) ; 
+//ith(). SQL for du crrne 
+   
+  variable () // for use and data 
+  
+ char (""43"" )  ; 
+ newseat  rows columns(   );
+
+// goku character values into table daaset    
+ insert column into table tide(   pno , pnm , cd  ) values ("hind,  d   , dv ")  ;  set  variable =(integer) : 
+u, j ,  m )  ;    
+ 
+ set values(  character=" grku" , en_id, " f",    (merriam) ,  )
+
+ function variable ():   int ();  
+ vint int e ( ) ; 
+ //
+ insert into table daaset rows (" character",character, ) ;      ;   
+ and x ,
+create table tide ;  
+insert tuple vse, whi  ; 
+INSERT column  [cahartecer1] = ""[ibyte6]""  ;
+insert vim =  [ ""byut"" VAR Size =8 ]; 
+ insert  row  [""ol""]  ;  
+insert +ui[" yes"] ;  
+insert variable  yut [ """ yuio """ ]   ; 
+"      "  insert  yuui   ; 
+insert column [rftaeyi]= 788 ;  
+update cahartecer1 = "gmc";
+update ibyte6="78986" ;
+insert tuple [vempid] = "16444";
+insert row [noftale]=" 1noyui ";
+select * from vwsql ;   
+varchar insert [ " tdf"] ; 
+ insert   nt56tyy_6677[""]; 
+ creaste a : () ; 
+ insert superkey row = "QL" ;
+ 
+insert s_id="31" ;
+insert [ idemp =667]  ; 
+insert varchar[idemp1]= 5 ;
+insert file dew[ ] ;
+ insert details varchar uisaw = [8789] ;
+insert column [vse =  677] ;
+insert column[ewq = "pmu" ]; 
+insert row [chavt = "vhu" ] ;
+insert row malin [ "nuvin  '' ]  ;
+insert ai [ var to kill ''116'']  ; 
+insert tumple Raro = ["betoni"] ;
+insert dcedi  ["tt  aqe "] ;
+relate trse2  into dew_halflifecoding [ ""(+)"" ] ;
+insert never ["sh "] ; 
+
+
+insert coumns :  { 
+
+    
+    
+}
+
+varchar dir  =  t ; 
+
+insert SQ1_peopleto_e = ["nawaid", "uzma" ];
+select s_id, vse, cahartecer1 ,ibyte6_;
+update vse = "wlempi ld crown'' ; 
+create row now ["when people will aso "] ;
+ascent :  insert chain () ;
+create table weas asw;
+create table  joklice [ where ''variable rows ''=  8  "]  ;  
+insert um [''ed'']  ;   
+insert var_3yui ;
+insert number= 4;
+insert   6 7 ;
+ insert column Aswert [ 2 ]  ; 
+
+</SQL>
+<json>
+
+function imd  {
+id = uid = }
+ }
+  ;
+ v_id="1uyti "
+ ;
+ select * from v  ;
+</SQL>
+
+
+
+<software>
+
+<!doctype>
+<Html> 
+
+
+<tbody> 
+        <code>
+        <vid>
+
             {% for employee in employees %}
             <tr>
                 <td>{{ employee[0] }}</td>
